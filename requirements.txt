@@ -1,0 +1,4 @@
+transformers>=4.45,<5
+accelerate
+gradio>=5,<7
+# PyTorch is preinstalled in Colab; install separately for other environments.
