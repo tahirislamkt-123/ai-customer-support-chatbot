@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI Customer Support Chatbot
 
 A learning-focused LLM customer-support chatbot built using **Qwen2.5-0.5B-Instruct**, Python, Hugging Face Transformers, and Gradio.
@@ -38,3 +39,7 @@ Milestone 1 — Colab inference prototype. **Not yet verified on the user’s ru
 
 ## Licence
 Project source licence not yet chosen. Check model licence independently.
+=======
+# ai-customer-support-chatbot
+AI-powered customer support chatbot built with Python, Qwen, Hugging Face Transformers, FastAPI and Next.js.
+>>>>>>> origin/main
